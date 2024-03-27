@@ -21,7 +21,7 @@ The club's facilities are top-notch, featuring multiple soccer fields, a clubhou
 
 Data Model
 
-
+![updatedDataModel](https://github.com/BhavikManiklal/Soccer-Team-Group-1/assets/150094078/b25e9a7d-0bc4-474f-b97f-7782484e9b8d)
 
 
 Explanation of data model:
