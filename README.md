@@ -4,11 +4,17 @@ Sp24_47114_Group1
 
 ## Group Members:
 Bhavik Maniklal:  https://github.com/BhavikManiklal/Soccer-Team-Group-1
+
 Isabella Kiser:  
+
 Jaiden Timmons:
+
 Ryan Schoessling:
+
 Tyler Marcinczyk:
+
 Will Cobb: 
+
 
 ## Problem Description: 
 
