@@ -77,15 +77,27 @@ Being such a popular soccer club, we have many spectators at every game. The spe
 
 ### ![image](https://github.com/BhavikManiklal/Soccer-Team-Group-1/assets/150094078/ca83e122-cdeb-4c96-8b29-1e80375ca5ad)
 
+Query 1 selects product names and their corresponding stock levels from the "Merchandise" table, filtering for items with stock levels below 40 and prices exceeding 50. This provides managers with a concise list of high-value products that are running low on stock, aiding in strategic inventory management. By prioritizing restocking efforts for these items, managers can ensure the availability of profitable products to meet customer demand, optimize inventory levels, and minimize the risk of stockouts, thereby enhancing sales and customer satisfaction.
+
 ### ![image](https://github.com/BhavikManiklal/Soccer-Team-Group-1/assets/150094078/60a5fbc8-33e5-4641-a902-66eb27098781)
+
+Query 2 aggregates data from a training session database, counting the occurrences of each focus area within the sessions. This information is invaluable for managers as it provides a clear snapshot of where training efforts are being directed. By identifying which skills or topics receive more attention, managers can allocate resources more effectively, tailor training programs to address specific needs, and ensure a balanced approach to skill development within the organization. Additionally, it enables managers to pinpoint areas of strength and areas needing improvement, facilitating informed decision-making to optimize workforce performance and achieve organizational goals efficiently.
 
 ### ![image](https://github.com/BhavikManiklal/Soccer-Team-Group-1/assets/150094078/2e820d20-9b3a-4217-86f4-3f20e7732e58)
 
+Query  3 combines data from two tables, "Team" and "TrainingSession", to provide managerial insights into team training activities. By joining the tables based on matching team IDs, the query counts the number of training sessions associated with each team and presents this information alongside the team ID and name. This allows managers to assess the level of training engagement within each team, identify high-performing teams that are actively participating in training sessions, and pinpoint teams that may require additional support or encouragement to engage in training activities.
+
 ### ![image](https://github.com/BhavikManiklal/Soccer-Team-Group-1/assets/150094078/e258344e-6700-4ecf-b01a-26be769c39e1)
+
+Query 4 is a simple query that lists the gender of members who’s membership ends in 2024. This query uses one join to combine the data between the Membership and Member tables. Using this join, we were able to extract the gender from the membership table and the memberId from the Member table in one query. This query allows managers to divide players into their respective genders, which can be important for the league. 
 
 ### ![image](https://github.com/BhavikManiklal/Soccer-Team-Group-1/assets/150094078/c127858d-06ee-4cc5-97a4-459b4ff03d7d)
 
+Query 5 retrieves data about matches, including their names and attendance figures, while also calculating the percentage of the facility filled for each match. By joining the Matches table with the Facility table based on matching facility IDs, it ensures accurate attendance data aligned with the corresponding facility capacity. The WHERE clause filters only matches with a status of "TRUE", ensuring the inclusion of active matches. Results are then ordered by the calculated percentage of facility filled, with higher percentages appearing first. The query's concise yet comprehensive structure enables efficient analysis of match attendance and facility utilization.
+
 ### ![image](https://github.com/BhavikManiklal/Soccer-Team-Group-1/assets/150094078/b693c20d-8510-44c6-a000-269696a608f3)
+
+
 
 ### ![image](https://github.com/BhavikManiklal/Soccer-Team-Group-1/assets/150094078/01fecfe5-2413-4d74-8534-06e8db16fab1)
 
