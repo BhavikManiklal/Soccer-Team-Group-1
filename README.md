@@ -3,17 +3,17 @@
 Sp24_47114_Group1
 
 ## Group Members:
-Bhavik Maniklal:  https://github.com/BhavikManiklal/Soccer-Team-Group-1
+Bhavik Maniklal:  [@BhavikManiklal](https://github.com/BhavikManiklal ) 
 
-Isabella Kiser:  
+Isabella Kiser:  [@isabellekiser](https://github.com/isabellekiser)
 
-Jaiden Timmons:
+Jaiden Timmons:  [@jaidentimmons](https://github.com/jaidentimmons)
 
-Ryan Schoessling:
+Ryan Schoessling:  [@rschoess3](https://github.com/rschoess3)
 
-Tyler Marcinczyk:
+Tyler Marcinczyk:  [@TylerMar1](https://github.com/TylerMar1)
 
-Will Cobb: 
+Will Cobb: [@wjc56122](https://github.com/wjc56122)
 
 
 ## Problem Description: 
