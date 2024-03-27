@@ -3,7 +3,12 @@
 Sp24_47114_Group1
 
 ## Group Members:
-Bhavik Maniklal, Isabella Kiser, Jaiden Timmons, Ryan Schoessling, Tyler Marcinczyk, Will Cobb
+Bhavik Maniklal:  
+Isabella Kiser:
+Jaiden Timmons:
+Ryan Schoessling:
+Tyler Marcinczyk:
+Will Cobb: 
 
 ## Problem Description: 
 
