@@ -70,10 +70,40 @@ Being such a popular soccer club, we have many spectators at every game. The spe
  ![transaction](https://github.com/isabellekiser/Soccer-Team/assets/149964200/080d167a-cc50-40d8-aa7f-1e323001dad9)
  ![team](https://github.com/isabellekiser/Soccer-Team/assets/149964200/e406d8ea-69ca-4ccb-8b92-74c8a9fc2be0)
 
+## Data Queries
+
+![image](https://github.com/BhavikManiklal/Soccer-Team-Group-1/assets/150094078/71b37faf-1a65-4afa-afb4-1c890e870d5b)
+
+
+### ![image](https://github.com/BhavikManiklal/Soccer-Team-Group-1/assets/150094078/ca83e122-cdeb-4c96-8b29-1e80375ca5ad)
+
+### ![image](https://github.com/BhavikManiklal/Soccer-Team-Group-1/assets/150094078/60a5fbc8-33e5-4641-a902-66eb27098781)
+
+### ![image](https://github.com/BhavikManiklal/Soccer-Team-Group-1/assets/150094078/2e820d20-9b3a-4217-86f4-3f20e7732e58)
+
+### ![image](https://github.com/BhavikManiklal/Soccer-Team-Group-1/assets/150094078/e258344e-6700-4ecf-b01a-26be769c39e1)
+
+### ![image](https://github.com/BhavikManiklal/Soccer-Team-Group-1/assets/150094078/c127858d-06ee-4cc5-97a4-459b4ff03d7d)
+
+### ![image](https://github.com/BhavikManiklal/Soccer-Team-Group-1/assets/150094078/b693c20d-8510-44c6-a000-269696a608f3)
+
+### ![image](https://github.com/BhavikManiklal/Soccer-Team-Group-1/assets/150094078/01fecfe5-2413-4d74-8534-06e8db16fab1)
+
+### ![image](https://github.com/BhavikManiklal/Soccer-Team-Group-1/assets/150094078/cc3b331e-ddcb-4f2d-b4d1-bec65d6d768b)
+
+### ![image](https://github.com/BhavikManiklal/Soccer-Team-Group-1/assets/150094078/c32b8be3-895d-4200-a420-f5bc098362a8)
+
+### ![image](https://github.com/BhavikManiklal/Soccer-Team-Group-1/assets/150094078/67de1749-30bf-42d6-8e65-10e06bab971b)
 
 
 
 
+
+
+## Database information:
+Name of the database: Sp24_47114_Group 1
+
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
 
 
 
