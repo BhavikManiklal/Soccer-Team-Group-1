@@ -97,20 +97,23 @@ Query 5 retrieves data about matches, including their names and attendance figur
 
 ### ![image](https://github.com/BhavikManiklal/Soccer-Team-Group-1/assets/150094078/b693c20d-8510-44c6-a000-269696a608f3)
 
-
+This query selects the full name,  salary , and role members.  The query uses a subquery to filter results to coaches whose salary is higher than the average salary of all coaches. The query concludes by ordering the results from highest salary to lowest. This query is important because it shows the distribution of salaries amongst coaches. This information could be used to determine the salaries of future coaches.
 
 ### ![image](https://github.com/BhavikManiklal/Soccer-Team-Group-1/assets/150094078/01fecfe5-2413-4d74-8534-06e8db16fab1)
 
+This query selects the product name and then multiplies the product price and amount of the product sold and lists them in a category called “Top 3 Most Profitable Jerseys”.  The where clause specifically filters the results to only include jerseys. The results are then ordered from the highest-selling jersey to the lowest-selling out of the top 3. This is important from a merchandising standpoint to understand your best-selling products.
+
 ### ![image](https://github.com/BhavikManiklal/Soccer-Team-Group-1/assets/150094078/cc3b331e-ddcb-4f2d-b4d1-bec65d6d768b)
+
+This query selects the team name and salary of each team. This query requires two joins in order to get the data from teams and members of those teams. The query also filters out the results by only including those teams whose team level is higher or equal to 3. The order by clause filters the results from highest salary to lowest.  This query is useful for a manager of the league because it lists the most expensive teams, which is useful for analyzing expenses by team. 
 
 ### ![image](https://github.com/BhavikManiklal/Soccer-Team-Group-1/assets/150094078/c32b8be3-895d-4200-a420-f5bc098362a8)
 
+This query lists the member ID, the last name of members, and their total transaction amount.  The having clause limits the results to only include transaction amounts greater than 400 dollars. In addition, There is a join clause to obtain data on the transactions. From a managerial perspective, this query is important because it can give you an idea of who your highest spending customers are.
+
 ### ![image](https://github.com/BhavikManiklal/Soccer-Team-Group-1/assets/150094078/67de1749-30bf-42d6-8e65-10e06bab971b)
 
-
-
-
-
+This query selects the league ID, league name, type of facility, and counts the number of matches played in each type of facility by league. This query required 4 joins to gather data from the respective tables. The results are then sorted by league Id, the league name and the type of facility. From a managerial standpoint, this query is useful to assess the number of matches being played in each facility by league. If a number is too high or low, the manager could make adjustments to make the number of  matches even across different facilities. 
 
 ## Database information:
 Name of the database: Sp24_47114_Group 1
